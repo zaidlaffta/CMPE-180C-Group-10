@@ -18,5 +18,5 @@ Week 7: working on Chapter 3, Coding
 Week 8: working on chapter 4, Coding 
 Week 9: working on chapter 4, finish coding and start working on conclusion and recommendation.
 Week: 10: working on chapter 5
-Week: 11: Presentation and slides setup 
+Week: 11: Presentation and slides setup, final touches
 Week 12: Presentation practice, code debug, final drafting of the project
